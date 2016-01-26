@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BizBrad]]></title>
         <description><![CDATA[BizBrad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bizbrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 01:01:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 01:14:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bizbrad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5043c7-738d-42c5-9cd7-0c20b275faa8.png">]]></description>
-            <link>undefined7079d3c6-86fc-4d9e-a1cc-4a1079674843/index.html</link>
+            <title><![CDATA[Welcome to The Grid]]></title>
+            <description><![CDATA[<article><h1>Welcome to The Grid</h1><p>Welcome to The Grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee62fc1-8e90-45cc-b45a-8c523fe8b8f8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bizbrad/7079d3c6-86fc-4d9e-a1cc-4a1079674843/index.html</link>
             <guid isPermaLink="false">7079d3c6-86fc-4d9e-a1cc-4a1079674843</guid>
-            <pubDate>Tue, 26 Jan 2016 01:01:24 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 01:14:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
